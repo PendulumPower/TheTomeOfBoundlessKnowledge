@@ -8,3 +8,9 @@ Front and back of the PCB:
 <img width="1220" height="843" alt="image" src="Images/TomePCBBack.png" />
 And here is the schematic for the design:
 <img width="1220" height="843" alt="image" src="Images/TomeSchem.png" />
+Cost Breakdown:<br>
+$35 for items in digikey BOM plus shipping, tariffs, and tax <br>
+$16 for PCB with PCB, stencil, shipping, and tax <br>
+$100 for e-paper display, extra cable, battery, and micro-sd card
+$30 for enclosure and assembly costs (filament, more solder, and outer case materials<br>
+Total: $181
